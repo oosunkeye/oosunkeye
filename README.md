@@ -18,7 +18,7 @@ Open to work
 
 ### 📫 Let's Connect
 
-- Contact: [E-mail](davidosunkeye@yahoo.com)
+- Contact: (davidosunkeye@yahoo.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/oladapo-david-osunkeye-64298016b/)
 
 ### 🤝 Open to Collaboration
