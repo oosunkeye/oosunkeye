@@ -27,7 +27,7 @@ I am always open to collaborative opportunities on intriguing projects. If you h
 
 ### 🚀 Fun Facts
 
-- [I love debugging]
-- [I love playing soccer]
+- I love debugging
+- I love playing video games
 
 Thanks for stopping by, and let's code something amazing together! 🚀
