@@ -6,7 +6,7 @@ I have a passionate addiction to crafting new machines through the art of progra
 
 - **Programming Languages:** [JavaScript, Java, C++]
 - **Frameworks & Libraries:** [React, React Native]
-- **Tools & Technologies:** [Visual Code, Eclipse]
+- **Tools & Technologies:** [VS Code, Eclipse]
 
 ### 🌱 Currently Working on my RideShare project
 
